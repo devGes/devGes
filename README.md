@@ -2,7 +2,7 @@
 - 👀 I’m interested in databases.
 - 🌱 I’m currently learning Python, Java, JavaScript, NodeJS.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me (don't)
 
 <!---
 devGes/devGes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
